@@ -1,0 +1,41 @@
+.nav-item:hover .nav-link {
+  text-decoration: underline;
+}
+
+.profile-info {
+  display: none;
+  position: absolute;
+  top: 40px;
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.nav-item .profile:hover .profile-info {
+  display: block;
+}
+
+.profile-info a {
+  text-decoration: none;
+  color: #333;
+  display: block;
+}
+
+.profile-info a:hover {
+  text-decoration: underline;
+}
+.profile-info p {
+  margin: 5px 0;
+  color: #333;
+}
+
+.icon.user.outline {
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
