@@ -1,0 +1,11 @@
+Semantic UI icon
+
+1. icon notification = <i class="bell outline icon"></i> fill <i class="bell icon"></i>
+2. icon users = <i class="users icon"></i>
+3. icon like = <i class="thumbs up outline icon"></i> fill <i class="thumbs up icon"></i>
+4. icon comment = <i class="comment alternate outline icon"></i>
+5. icon share = <i class="share icon"></i>
+6. icon profile = <i class="user outline icon"></i> fill <i class="user icon"></i>
+7. icon save atau bookmark = <i class="bookmark outline icon"></i> fill <i class="bookmark icon"></i>
+8. icon search =  <i class="search icon"></i>
+9. icon mail = <i class="envelope outline icon"></i> fill <i class="envelope icon"></i>
